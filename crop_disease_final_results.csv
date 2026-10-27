@@ -1,0 +1,2 @@
+Model,Number_of_Classes,Test_Images,Accuracy_Percent,Macro_Precision_Percent,Macro_Recall_Percent,Macro_F1_Percent,Mean_Confidence_Percent
+MobileNetV2,38,8145,95.9,95.52,94.08,94.57,95.19
